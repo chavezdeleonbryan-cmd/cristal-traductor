@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cristal Traductor</string>
+    <string name="acc_desc">Lee el texto que queda debajo del cristal y lo muestra traducido al español encima, en tiempo real, sin tomar capturas y sin bloquear los toques.</string>
+</resources>
